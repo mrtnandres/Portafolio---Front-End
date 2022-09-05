@@ -116,11 +116,14 @@ a:hover{
 /*          ESTILOS DE BLOQUES                                      */
 .contenedorcabezera
 {
-    background-color: white;
     border: 4px solid black ;
     border-radius: 8px;
     margin-bottom: 100px;
+    font-weight: bold;
 }
 
 
 /*          ESTILOS DE BLOQUES          --->FIN                     */
+
+/*          ESTILOS DE BLOQUES          --->FIN                     */
+
