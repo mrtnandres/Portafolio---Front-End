@@ -1,0 +1,30 @@
+[
+    {
+        "nombre": "martin",
+        "apellido": "ulloa",
+        "email": "martin615@gmail.com",
+        "experiencia":
+            {
+                "empresa": "microsoft",
+                "antiguedad": "3 meses"
+            },
+        "programacion":
+        {
+            "lenguajes":["python", "C", "JavaScript"]
+        }
+    },
+    {
+        "nombre": "fernando",
+        "apellido": "sepulveda",
+        "email": "sepulveda5@gmail.com",
+        "experiencia":
+            {
+                "empresa": "google",
+                "antiguedad": "3 meses"
+            },
+        "programacion":
+        {
+            "lenguajes":["PHP", "C#", "TypeScript"]
+        }
+    }
+]
