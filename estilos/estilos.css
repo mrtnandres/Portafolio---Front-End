@@ -63,7 +63,7 @@ footer{
 }
 #contenedor aside
 {
-    background-image: url(https://i.pinimg.com/564x/05/0e/26/050e2675fb6b1447138a8206482f450c.jpg);
+    background-color: silver;
     background-position: center center;
     background-size: cover;
     float: left;
